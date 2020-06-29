@@ -1,0 +1,6 @@
+Package: Rutilities
+Type: Package
+Title: All simple utility functions by Thomas Pellet
+Encoding: UTF-8
+Version: 0.0.1.0
+RoxygenNote: 7.1.1
